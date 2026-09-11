@@ -1,0 +1,1 @@
+print("Hello Rama! Python داره کار می‌کنه ✅")
